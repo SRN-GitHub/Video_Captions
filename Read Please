@@ -1,0 +1,6 @@
+1. Setup the Vite React. (npm i vite@latest)
+3. You need to install tailWind Css with Vite.
+2. Install Post Css.
+
+It s a Online video player, where you have to add video links from recomended extension,
+And You can play, pause, download, add your comments in caption etc.
